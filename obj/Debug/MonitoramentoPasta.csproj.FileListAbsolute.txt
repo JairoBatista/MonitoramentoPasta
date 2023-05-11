@@ -1,0 +1,8 @@
+C:\Pocs\MonitoramentoPasta\obj\Debug\MonitoramentoPasta.csproj.AssemblyReference.cache
+C:\Pocs\MonitoramentoPasta\obj\Debug\MonitoramentoPasta.csproj.SuggestedBindingRedirects.cache
+C:\Pocs\MonitoramentoPasta\obj\Debug\MonitoramentoPasta.csproj.CoreCompileInputs.cache
+C:\Pocs\MonitoramentoPasta\bin\Debug\MonitoramentoPasta.exe.config
+C:\Pocs\MonitoramentoPasta\bin\Debug\MonitoramentoPasta.exe
+C:\Pocs\MonitoramentoPasta\bin\Debug\MonitoramentoPasta.pdb
+C:\Pocs\MonitoramentoPasta\obj\Debug\MonitoramentoPasta.exe
+C:\Pocs\MonitoramentoPasta\obj\Debug\MonitoramentoPasta.pdb
